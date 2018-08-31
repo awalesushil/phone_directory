@@ -1,2 +1,2 @@
 # phone_directory
-A phone directory system in C (Second Semester Project) with binary search
+A terminal-based phone directory system (Second Semester Project) implemented in C with login and binary search feature
